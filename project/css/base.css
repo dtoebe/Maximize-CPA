@@ -1,0 +1,26 @@
+#drag {
+	height: 80px;
+	padding-top: 50px;
+
+	font-size: 18px;
+	text-align: center;
+
+	background: #325c9c;
+	color: #fff;
+
+	-webkit-app-region: drag;
+}
+
+#buttons {
+	text-align: center;
+	margin-top: 25px;
+}
+
+footer {
+	bottom: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+
+	text-align: center;
+}

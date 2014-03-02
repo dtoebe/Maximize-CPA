@@ -1,0 +1,15 @@
+{
+	"app": {
+		"background": {
+			"scripts": [
+				"app/background.js"
+			]
+		}
+	},
+	"manifest_version": 2,
+	"name": "Maximize-CPA",
+	"version": "1.0",
+
+	"author": "A+A",
+	"description": "An example to show how to use the library maximize-cpa.js"
+}
