@@ -9,7 +9,7 @@ Maximize-CPA is a simple way to fix the issue with maximized Chrome Packaged App
 
 Maximize-CPA is under MIT licence and has been made to be really simple to use. 
 
-Download `maximize-cpa.min.js` in "released/1.0" and include it in your project (see the Chrome Packaged App contained in the folder "project" to have an example). 
+Download `maximize-cpa.min.js` in "released/1.1" and include it in your project (see the Chrome Packaged App contained in the folder "project" to have an example). 
 
 The only thing to do then is to link your button "Maximize" with the function `maximizeWindow()` and everything should work.
 
